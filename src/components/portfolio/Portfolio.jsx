@@ -27,7 +27,7 @@ const data = [
     {
         id: 3,
         image: IMG3,
-        title: 'Listrict Recharge - EV Charging Station Landing Design',
+        title: 'Recharge - EV Charging Station Landing Design',
         github: 'https://github.com',
         demo: 'https://dribbble.com/shots/18744528-Listrict-Recharge-EV-Charging-Station-Landing-Design'
     },
